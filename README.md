@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhanbUuu
+- 👋 Hi, I’m @Zhanbek
 - 👀 I’m interested in games and social media
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on master
