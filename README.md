@@ -16,6 +16,9 @@ PHP
 Figma
 
 ### To contact me:
+
 [Instagram](https://www.instagram.com/toskahaha)
 
 [Vk](https://vk.com/drugoychelowek)
+
+[Telegram](@zhanb9)
