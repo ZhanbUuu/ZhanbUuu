@@ -6,19 +6,23 @@
 - 🥊 I love boxing
 
 ### Languages and Tools
-Python
-HTML
-JavaScript
-VisualStudioCode
-Django
-Flask
-PHP
-Figma
+* Python
+* HTML
+* JavaScript
+* VisualStudioCode
+* Django
+* Flask
+* PHP
+* Figma
+
 
 ### To contact me:
 
-[Instagram](https://www.instagram.com/toskahaha)
+![Static Badge](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=%2FUsers%2Fstaruhasapoklak%2FDownloads%2Finstagram.svg&link=https%3A%2F%2Fwww.instagram.com%2Ftoskahaha)
 
-[Vk](https://vk.com/drugoychelowek)
 
-[Telegram](https://t.me/zhanb9)
+![Static Badge](https://img.shields.io/badge/VK-%230077FF?style=for-the-badge&link=https%3A%2F%2Fvk.com%2Fdrugoychelowek)
+
+
+![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&link=https%3A%2F%2Ft.me%2Fzhanb9)
+
