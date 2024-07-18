@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5011&pause=1000&color=000000&background=5B5CFF2D&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Zhanbek)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=5011&pause=1000&color=000000&background=5B5CFF2D&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Zhanbek)]
 
 ### I'm a Developer
 - 👀 I’m interested in games and social media
