@@ -1,4 +1,4 @@
-<h1 align-"center"> 👋 Hi, I’m Zhanbek
+<h1 align="center"> 👋 Hi, I’m Zhanbek
 
 *** I'm a Developer
 - 👀 I’m interested in games and social media
