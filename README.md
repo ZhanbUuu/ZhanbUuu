@@ -21,4 +21,4 @@ Figma
 
 [Vk](https://vk.com/drugoychelowek)
 
-[Telegram](@zhanb9)
+[Telegram](t.me/@zhanb9)
